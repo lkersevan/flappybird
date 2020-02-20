@@ -1,2 +1,5 @@
-# flappybird
-Flappy Bird game with Python
+# Flappy Bird
+Flappy Bird game development with Python and Pygame
+Enjoy
+=)
+By Leonardo Kersevan
